@@ -6,9 +6,9 @@ using namespace std;
 
 float i, numero, resultado;
 
-main(){
+main()
+{
 	i = 1;
-	resultado = 0;
 	
 	do
 	{
